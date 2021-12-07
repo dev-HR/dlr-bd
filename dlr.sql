@@ -1,7 +1,7 @@
-drop database if exists dlp ;
-create database dlp ;
+drop database if exists dlr ;
+create database dlr ;
 
-use dlp ;
+use dlr ;
 
 
 create table emplacement (
